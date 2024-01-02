@@ -15,8 +15,7 @@ function About (props) {
                     <VerticalTimelineElement
                        className="vertical-timeline-element--work"
                        date="2020"
-                       iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                      
+                       iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}     
                     >
                       
                       <ScaleText>

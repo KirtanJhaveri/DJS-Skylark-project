@@ -22,7 +22,7 @@ function Footer(props) {
                     No. U-15, J.V.P.D. Scheme,<br />
                     Bhaktivedanta Swami Rd, Opp.Cooper Hospital,<br />
                     Vile Parle, Mumbai, Maharashtra 400056, India<br />
-		              <i className="fa fa-phone fa-lg"></i>: +91 72085 37704<br />
+		              <i className="fa fa-phone fa-lg"></i>: +91 98339 98045<br />
 		              <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:djs.skylark@gmail.com">
                       djs.skylark@gmail.com</a>
                     </address>

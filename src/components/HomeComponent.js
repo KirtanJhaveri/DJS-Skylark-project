@@ -53,7 +53,7 @@ class Home extends Component {
                                 <AccordionItemHeading>
                                     <AccordionItemButton className="accordioncustom text-center align-items-center">
                                         Regular Class
-                                </AccordionItemButton>
+                                    </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
                                     <p>
